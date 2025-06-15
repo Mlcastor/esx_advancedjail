@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Mlcastor/esx_advancedjail/compare/v1.0.0...v1.1.0) (2025-06-15)
+
+
+### Features
+
+* **esx_advancedjail:** migrate legacy resource into template skeleton ([6805464](https://github.com/Mlcastor/esx_advancedjail/commit/680546444c846ca8228dad812dd90305a51cdde0))
+
 ## [1.0.0](https://github.com/Mlcastor/esx_resource_template/compare/v0.3.0...v1.0.0) (2025-06-15)
 
 
